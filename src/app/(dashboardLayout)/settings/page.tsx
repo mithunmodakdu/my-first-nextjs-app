@@ -1,7 +1,7 @@
 const SettingsPage = () => {
   return (
     <div>
-      <h1 className="text-4xl">SettingsPage</h1>
+      <h1 className="text-4xl">Settings Page</h1>
     </div>
   );
 };

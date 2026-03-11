@@ -14,6 +14,8 @@ const Navbar = () => {
 
         {/* <a href="/contact" className="hoover: text-gray-300">Contact</a> */}
         <Link href="/contact" className="hoover: text-gray-300">Contact</Link>
+        
+        <Link href="/dashboard" className="hoover: text-gray-300">Dashboard</Link>
 
         {/* <a href="/login" className="hoover: text-gray-300">Login</a> */}
         <Link href="/login" className="hoover: text-gray-300">Login</Link>

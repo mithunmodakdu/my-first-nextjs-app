@@ -2,7 +2,7 @@
 const ProfilePage = () => {
   return (
     <div>
-      <h1 className="text-4xl">ProfilePage</h1>
+      <h1 className="text-4xl">Profile Page</h1>
     </div>
   );
 };
