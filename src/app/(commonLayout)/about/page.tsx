@@ -1,4 +1,10 @@
+import { Metadata } from "next";
 import styles from "./About.module.css"
+
+export const metadata: Metadata = {
+  title: "About Page",
+  description: "This is about page of my first next.js app"
+}
 
 const AboutPage = () => {
   return (

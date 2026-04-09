@@ -1,5 +1,5 @@
 import Image from "next/image";
-import myImage from "../../assets/images/mithun.png"
+import myImage from "@/assets/images/mithun.png"
 
 const GalleryPage = () => {
   return (
@@ -22,7 +22,7 @@ const GalleryPage = () => {
         className="mx-auto"
       />
 
-      <h1 className="text-center mt-5">Next.js Image Component with local image from app/assets/images</h1>
+      <h1 className="text-center mt-5">Next.js Image Component with local image from @/assets/images(absolute import or alias)</h1>
       <Image
         src={myImage}
         alt="My Image"

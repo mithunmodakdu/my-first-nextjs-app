@@ -1,4 +1,4 @@
-import Navbar from "@/src/components/Navbar";
+import Navbar from "@/components/Navbar";
 
 const CommonLayout = ({children}: {children: React.ReactNode}) => {
   return (
