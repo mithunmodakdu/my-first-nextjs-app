@@ -12,6 +12,8 @@ const Navbar = () => {
         <input type="text" className="p-5 w-96 h-5 bg-gray-100 rounded-xl text-gray-600" placeholder="Search here..." />
       </div>
       <div className="flex space-x-6">
+        <Link href="/products" className="hoover: text-gray-300">Products</Link>
+
         {/* <a href="/about" className="hoover: text-gray-300">About</a> */}
         <Link href="/about" className="hoover: text-gray-300">About</Link>
 
