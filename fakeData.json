@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "category": "Electronics",
+      "price": 59.99,
+      "discountPercentage": 10,
+      "stock": 25,
+      "brand": "Sony",
+      "rating": 4.5,
+      "thumbnail": "https://res.cloudinary.com/dbcykhgzd/image/upload/v1770563021/xde331d9vn-1770563018031-loginpage.png.png"
+    },
+    {
+      "id": 2,
+      "name": "Men's Casual T-Shirt",
+      "category": "Fashion",
+      "price": 19.99,
+      "discountPercentage": 15,
+      "stock": 50,
+      "brand": "H&M",
+      "rating": 4.2,
+      "thumbnail": "https://res.cloudinary.com/dbcykhgzd/image/upload/v1770563021/xde331d9vn-1770563018031-loginpage.png.png"
+    },
+    {
+      "id": 3,
+      "name": "Smart Watch Series 7",
+      "category": "Electronics",
+      "price": 199.99,
+      "discountPercentage": 8,
+      "stock": 30,
+      "brand": "Apple",
+      "rating": 4.7,
+      "thumbnail": "https://res.cloudinary.com/dbcykhgzd/image/upload/v1770563021/xde331d9vn-1770563018031-loginpage.png.png"
+    },
+    {
+      "id": 4,
+      "name": "Women's Handbag",
+      "category": "Accessories",
+      "price": 45.5,
+      "discountPercentage": 20,
+      "stock": 40,
+      "brand": "Gucci",
+      "rating": 4.6,
+      "thumbnail": "https://res.cloudinary.com/dbcykhgzd/image/upload/v1770563021/xde331d9vn-1770563018031-loginpage.png.png"
+    },
+    {
+      "id": 5,
+      "name": "Gaming Mouse RGB",
+      "category": "Electronics",
+      "price": 29.99,
+      "discountPercentage": 12,
+      "stock": 60,
+      "brand": "Logitech",
+      "rating": 4.4,
+      "thumbnail": "https://res.cloudinary.com/dbcykhgzd/image/upload/v1770563021/xde331d9vn-1770563018031-loginpage.png.png"
+    },
+    {
+      "id": 6,
+      "name": "Running Shoes",
+      "category": "Footwear",
+      "price": 89.99,
+      "discountPercentage": 18,
+      "stock": 35,
+      "brand": "Nike",
+      "rating": 4.8,
+      "thumbnail": "https://res.cloudinary.com/dbcykhgzd/image/upload/v1770563021/xde331d9vn-1770563018031-loginpage.png.png"
+    },
+    {
+      "id": 7,
+      "name": "Laptop Backpack",
+      "category": "Bags",
+      "price": 39.99,
+      "discountPercentage": 10,
+      "stock": 45,
+      "brand": "HP",
+      "rating": 4.3,
+      "thumbnail": "https://res.cloudinary.com/dbcykhgzd/image/upload/v1770563021/xde331d9vn-1770563018031-loginpage.png.png"
+    },
+    {
+      "id": 8,
+      "name": "4K LED Monitor",
+      "category": "Electronics",
+      "price": 299.99,
+      "discountPercentage": 7,
+      "stock": 20,
+      "brand": "Samsung",
+      "rating": 4.6,
+      "thumbnail": "https://res.cloudinary.com/dbcykhgzd/image/upload/v1770563021/xde331d9vn-1770563018031-loginpage.png.png"
+    },
+    {
+      "id": 9,
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 49.99,
+      "discountPercentage": 14,
+      "stock": 55,
+      "brand": "JBL",
+      "rating": 4.5,
+      "thumbnail": "https://res.cloudinary.com/dbcykhgzd/image/upload/v1770563021/xde331d9vn-1770563018031-loginpage.png.png"
+    },
+    {
+      "id": 10,
+      "name": "Denim Jeans",
+      "category": "Fashion",
+      "price": 59.0,
+      "discountPercentage": 25,
+      "stock": 70,
+      "brand": "Levi's",
+      "rating": 4.4,
+      "thumbnail": "https://res.cloudinary.com/dbcykhgzd/image/upload/v1770563021/xde331d9vn-1770563018031-loginpage.png.png"
+    }
+  ]
+}

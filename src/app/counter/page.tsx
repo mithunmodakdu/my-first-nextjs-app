@@ -1,4 +1,5 @@
-import Counter from "@/src/components/Counter";
+import Counter from "@/components/Counter";
+
 
 const CounterPage = () => {
   console.log("CounterPage")
