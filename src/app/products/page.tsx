@@ -3,7 +3,9 @@ import { IProduct } from "@/types";
 
 const ProductsPage = async() => {
   const res = await fetch("http://localhost:5000/products", {
-    cache: "force-cache"
+    next: {
+      revalidate: 5
+    }
   });
   const products = await res.json();
   // console.log(products)
