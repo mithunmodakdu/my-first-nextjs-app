@@ -25,6 +25,12 @@ const Navbar = () => {
         >
           Products
         </Link>
+        <Link
+          href="/posts"
+          className={`${pathname === "/posts" ? "text-blue-700 font-semibold underline" : "text-white hover:underline"}`}
+        >
+          Posts
+        </Link>
 
         {/* <a href="/about" className="hoover: text-gray-300">About</a> */}
         <Link href="/about" className={`${pathname === "/about" ? "text-blue-700 font-semibold underline" : "text-white hover:underline"}`}>
